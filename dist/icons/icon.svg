@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#07c160"/>
+  <path d="M256 96 L416 192 L416 320 L256 416 L96 320 L96 192 Z" fill="#ffffff" opacity="0.15"/>
+  <path d="M256 120 L384 200 L384 304 L256 384 L128 304 L128 200 Z" fill="#ffffff"/>
+  <rect x="236" y="240" width="40" height="80" rx="4" fill="#07c160"/>
+  <path d="M216 240 L256 200 L296 240" fill="none" stroke="#07c160" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="460" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="bold" fill="#ffffff">抚幼</text>
+</svg>
